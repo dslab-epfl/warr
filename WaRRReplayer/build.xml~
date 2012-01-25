@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. -->
+<project basedir="." default="build" name="WaRR">
+	<property environment="env" />
+	<property name="debuglevel" value="source,lines,vars" />
+	<property name="target" value="1.6" />
+	<property name="source" value="1.6" />
+	<path id="WaRR.classpath">
+		<pathelement location="bin" />
+		<pathelement location="lib/server-standalone.jar" />
+	</path>
+	<target name="init">
+		<mkdir dir="bin" />
+	</target>
+	<target name="clean">
+		<delete dir="bin" />
+	</target>
+	<target depends="init" name="build">
+		<echo message="${ant.project.name}: ${ant.file}" />
+		<javac debug="true" debuglevel="${debuglevel}" destdir="bin" source="${source}" target="${target}">
+			<src path="src" />
+			<classpath refid="WaRR.classpath" />
+		</javac>
+	</target>
+	<target name="WaRRReplayer">
+		<java classname="warr.WaRRReplayer" failonerror="true" fork="yes">
+			<jvmarg line="-Dwebdriver.chrome.bin=${chrome}" />
+			<arg line="${warr_file}" />
+			<classpath refid="WaRR.classpath" />
+		</java>
+	</target>
+</project>

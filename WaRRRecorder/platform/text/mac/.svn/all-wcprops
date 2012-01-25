@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/text/mac
+END
+HyphenationMac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/text/mac/HyphenationMac.mm
+END
+StringMac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/text/mac/StringMac.mm
+END
+StringImplMac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/text/mac/StringImplMac.mm
+END
+ShapeArabic.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/text/mac/ShapeArabic.c
+END
+make-charset-table.pl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/text/mac/make-charset-table.pl
+END
+TextCodecMac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/text/mac/TextCodecMac.cpp
+END
+mac-encodings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/text/mac/mac-encodings.txt
+END
+character-sets.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/text/mac/character-sets.txt
+END
+ShapeArabic.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/text/mac/ShapeArabic.h
+END
+TextBoundaries.mm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/text/mac/TextBoundaries.mm
+END
+CharsetData.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/text/mac/CharsetData.h
+END
+TextCodecMac.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/text/mac/TextCodecMac.h
+END
+TextBreakIteratorInternalICUMac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/text/mac/TextBreakIteratorInternalICUMac.mm
+END

@@ -1,0 +1,47 @@
+<html>
+<head>
+<style type="text/css">
+ #DragDiv
+ {
+  height:100px;
+  width:100px;
+  background-color:blue;
+  position:relative;
+ }
+</style>
+<script type="text/javascript">
+ var DragDiv;
+ var Dragging = false;
+ window.onload = function()
+ {
+  DragDiv = document.getElementById("DragDiv");
+  DragDiv.onmousedown = function()
+  {
+   console.log("Dragging enabled");
+   Dragging = true;
+  }
+ }
+ 
+ document.onmousemove = function(e)
+ {
+  if (!e) e = window.event;
+  if (Dragging)
+  {
+   DragDiv.style.left = e.clientX + "px";
+   DragDiv.style.top = e.clientY + "px";
+  }
+ }
+ 
+ document.onmouseup = function()
+ {
+  console.log("Dragging disabled");
+  Dragging = true;
+ }
+</script>
+<title>Simple Drag</title>
+</head>
+
+<body>
+<div id="DragDiv"></div>
+</body>
+</html>

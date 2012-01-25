@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/loader/archive/cf
+END
+LegacyWebArchive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/loader/archive/cf/LegacyWebArchive.cpp
+END
+LegacyWebArchive.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/loader/archive/cf/LegacyWebArchive.h
+END
+LegacyWebArchiveMac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/loader/archive/cf/LegacyWebArchiveMac.mm
+END

@@ -1,0 +1,120 @@
+visualc_library(name = "chrome_dll",
+  platform = "Win32",
+  solution = "WebDriver.sln",
+  target = "npchromedriver",
+  out = "Win32/Release/npchromedriver.dll"
+)
+
+visualc_library(name = "firefox_dll",
+  platform = "Win32",
+  solution = "WebDriver.sln",
+  target = "webdriver-firefox",
+  out = "Win32/Release/webdriver-firefox.dll"
+)
+
+mozilla_xpt(name = "native_events_xpt",
+  srcs = [ "webdriver-firefox/nsINativeEvents.idl" ])
+
+rake_task(name = "libwebdriver_firefox_so",
+  task_name = "libwebdriver_firefox_so",
+  out = "build/cpp/i386/libwebdriver-firefox.so")
+
+rake_task(name = "libwebdriver_firefox_so64",
+  task_name = "libwebdriver_firefox_so64",
+  out = "build/cpp/amd64/libwebdriver-firefox.so")
+
+gcc_library(name = "noblur",
+  srcs = [ "linux-specific/*.c" ],
+  arch = "i386")
+
+gcc_library(name = "noblur64",
+  srcs = [ "linux-specific/*.c" ],
+  arch = "amd64")
+
+gcc_library(name = "imehandler",
+  srcs = [ "imehandler/linux/src/*.cpp" ],
+  args = "-rdynamic -I cpp/imehandler/common `pkg-config gtk+-2.0 ibus-1.0 --cflags`",
+  link_args = "`pkg-config gtk+-2.0 ibus-1.0 --libs`",
+  arch = "i386")
+
+gcc_library(name = "imehandler64",
+  srcs = [ "imehandler/linux/src/*.cpp" ],
+  args = "-rdynamic -I cpp/imehandler/common `pkg-config gtk+-2.0 ibus-1.0 --cflags`",
+  link_args = "`pkg-config gtk+-2.0 ibus-1.0 --libs`",
+  arch = "amd64")
+
+visualc_library(name = "imehandler_dll",
+  platform = "Win32",
+  solution = "WebDriver.sln",
+  target = "imehandler",
+  out = "Win32/Release/imehandler.dll"
+)
+
+visualc_library(name = "ie_win32_dll",
+  deps = [
+    ":ie_result_type_cpp",
+    ":sizzle"
+  ],
+  platform = "Win32",
+  solution = "WebDriver.sln",
+  target = "IEDriver",
+  out = "Win32/Release/IEDriver.dll"
+)
+
+visualc_library(name = "ie_x64_dll",
+  deps = [
+    ":ie_result_type_cpp",
+    ":sizzle"
+  ],
+  platform = "x64",
+  solution = "WebDriver.sln",
+  target = "IEDriver",
+  out = "x64/Release/IEDriver.dll"
+)
+
+visualc_library(name = "ielegacy_win32_dll",
+  deps = [
+    ":ie_result_type_cpp",
+    ":sizzle"
+  ],
+  platform = "Win32",
+  solution = "WebDriver.sln",
+  target = "InternetExplorerDriver",
+  out = "Win32/Release/InternetExplorerDriver.dll"
+)
+
+visualc_library(name = "ielegacy_x64_dll",
+  deps = [
+    ":ie_result_type_cpp",
+    ":sizzle"
+  ],
+  platform = "x64",
+  solution = "WebDriver.sln",
+  target = "InternetExplorerDriver",
+  out = "x64/Release/InternetExplorerDriver.dll"
+)
+
+js_fragment_header(name = "atoms",
+  deps = [
+    "//javascript/webdriver-atoms:clear",
+    "//javascript/webdriver-atoms:find_element",
+    "//javascript/webdriver-atoms:find_elements",
+    "//javascript/webdriver-atoms:get_attribute",
+    "//javascript/webdriver-atoms:get_location",
+    "//javascript/webdriver-atoms:get_size",
+    "//javascript/webdriver-atoms:get_text",
+    "//javascript/webdriver-atoms:is_displayed",
+    "//javascript/webdriver-atoms:is_enabled",
+    "//javascript/webdriver-atoms:is_selected",
+    "//javascript/webdriver-atoms:submit",
+  ],
+  out = "cpp/IEDriver/atoms.h"
+)
+
+rake_task(name = "sizzle",
+  task_name = "sizzle_header",
+  out = "cpp/IEDriver/sizzle.h")
+
+rake_task(name = "ie_result_type_cpp",
+  task_name = "ie_result_type_cpp",
+  out = "cpp/IEDriver/IEReturnTypes.h")

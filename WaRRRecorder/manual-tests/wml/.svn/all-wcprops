@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml
+END
+a-img-element.wml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/a-img-element.wml
+END
+deck-access-control.wml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/deck-access-control.wml
+END
+access-target.wml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/access-target.wml
+END
+input-format.wml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/input-format.wml
+END
+onevent-noop.wml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/onevent-noop.wml
+END
+task-prev-in-anchor.wml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/task-prev-in-anchor.wml
+END
+onevent-prev.wml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/onevent-prev.wml
+END
+setvar-element.wml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/setvar-element.wml
+END
+onevent-shadow.wml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/onevent-shadow.wml
+END
+anchor-element.wml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/anchor-element.wml
+END
+a-element.wml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/a-element.wml
+END
+task-refresh-in-anchor.wml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/task-refresh-in-anchor.wml
+END
+onevent-refresh.wml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/onevent-refresh.wml
+END
+card-newcontext-attr.wml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/card-newcontext-attr.wml
+END
+StartTests.wml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/StartTests.wml
+END
+task-go-in-anchor.wml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/task-go-in-anchor.wml
+END
+onevent-go.wml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/onevent-go.wml
+END
+card-ontimer.wml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/card-ontimer.wml
+END
+template-ontimer.wml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/template-ontimer.wml
+END
+variable-substitution.wml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/variable-substitution.wml
+END
+anchor-br-element.wml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/anchor-br-element.wml
+END
+select-element.wml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/select-element.wml
+END
+card-onenterforward.wml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/card-onenterforward.wml
+END
+a-br-element.wml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/a-br-element.wml
+END
+anchor-img-element.wml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/anchor-img-element.wml
+END
+targetdeck.wml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/targetdeck.wml
+END
+select-onpick-event-crash.wml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/select-onpick-event-crash.wml
+END
+template-go.wml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/template-go.wml
+END
+select-onpick-event.wml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/select-onpick-event.wml
+END
+timer.wml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/timer.wml
+END
+card-onenterbackward.wml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/wml/card-onenterbackward.wml
+END

@@ -1,0 +1,443 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/webkit/!svn/ver/75604/trunk/Source/WebCore/xml
+END
+XMLHttpRequest.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XMLHttpRequest.idl
+END
+XMLSerializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XMLSerializer.h
+END
+XPathExpression.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathExpression.cpp
+END
+XPathNamespace.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathNamespace.h
+END
+XPathNSResolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathNSResolver.cpp
+END
+XPathVariableReference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathVariableReference.cpp
+END
+XMLHttpRequest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75604/trunk/Source/WebCore/xml/XMLHttpRequest.cpp
+END
+XSLTUnicodeSort.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XSLTUnicodeSort.cpp
+END
+XPathPredicate.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathPredicate.h
+END
+XPathExpressionNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathExpressionNode.cpp
+END
+XPathEvaluator.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathEvaluator.h
+END
+XPathFunctions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathFunctions.cpp
+END
+XSLTExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XSLTExtensions.h
+END
+XMLHttpRequestUpload.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XMLHttpRequestUpload.h
+END
+XPathStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathStep.h
+END
+XPathValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathValue.h
+END
+XSLTProcessorLibxslt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XSLTProcessorLibxslt.cpp
+END
+XMLHttpRequestException.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XMLHttpRequestException.h
+END
+XPathEvaluator.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathEvaluator.idl
+END
+XSLImportRule.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XSLImportRule.h
+END
+XPathNamespace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathNamespace.cpp
+END
+xmlnsattrs.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/xmlnsattrs.in
+END
+XPathPredicate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathPredicate.cpp
+END
+XPathEvaluator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathEvaluator.cpp
+END
+XPathExpression.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathExpression.h
+END
+XPathExpressionNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathExpressionNode.h
+END
+XSLTProcessor.idl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XSLTProcessor.idl
+END
+XPathValue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathValue.cpp
+END
+XPathUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathUtil.cpp
+END
+DOMParser.idl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/DOMParser.idl
+END
+XMLHttpRequestProgressEvent.idl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XMLHttpRequestProgressEvent.idl
+END
+XSLImportRule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XSLImportRule.cpp
+END
+XSLTProcessor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75577/trunk/Source/WebCore/xml/XSLTProcessor.cpp
+END
+DOMParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75577/trunk/Source/WebCore/xml/DOMParser.cpp
+END
+xmlattrs.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/xmlattrs.in
+END
+XPathPath.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathPath.h
+END
+XPathParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathParser.h
+END
+XPathNodeSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathNodeSet.cpp
+END
+XPathException.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathException.h
+END
+NativeXPathNSResolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/NativeXPathNSResolver.cpp
+END
+XMLSerializer.idl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XMLSerializer.idl
+END
+XMLHttpRequestProgressEventThrottle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XMLHttpRequestProgressEventThrottle.cpp
+END
+XPathUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathUtil.h
+END
+XPathResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathResult.h
+END
+XPathException.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathException.idl
+END
+XMLSerializer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XMLSerializer.cpp
+END
+XSLTProcessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XSLTProcessor.h
+END
+XSLTProcessorQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XSLTProcessorQt.cpp
+END
+XPathPath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathPath.cpp
+END
+XPathParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathParser.cpp
+END
+DOMParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/DOMParser.h
+END
+XMLHttpRequestUpload.idl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XMLHttpRequestUpload.idl
+END
+XMLHttpRequestProgressEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XMLHttpRequestProgressEvent.h
+END
+XPathResult.idl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathResult.idl
+END
+XSLTExtensions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XSLTExtensions.cpp
+END
+XPathNodeSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathNodeSet.h
+END
+XPathNSResolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathNSResolver.h
+END
+XPathVariableReference.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathVariableReference.h
+END
+XMLHttpRequestUpload.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XMLHttpRequestUpload.cpp
+END
+XMLHttpRequestException.idl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XMLHttpRequestException.idl
+END
+XMLHttpRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XMLHttpRequest.h
+END
+XSLTUnicodeSort.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XSLTUnicodeSort.h
+END
+XPathStep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathStep.cpp
+END
+XPathGrammar.y
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathGrammar.y
+END
+XSLStyleSheetLibxslt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XSLStyleSheetLibxslt.cpp
+END
+XPathFunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathFunctions.h
+END
+XPathResult.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathResult.cpp
+END
+NativeXPathNSResolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/NativeXPathNSResolver.h
+END
+XSLStyleSheetQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XSLStyleSheetQt.cpp
+END
+XSLStyleSheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XSLStyleSheet.h
+END
+XPathExpression.idl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathExpression.idl
+END
+XMLHttpRequestProgressEventThrottle.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XMLHttpRequestProgressEventThrottle.h
+END
+XPathNSResolver.idl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/xml/XPathNSResolver.idl
+END

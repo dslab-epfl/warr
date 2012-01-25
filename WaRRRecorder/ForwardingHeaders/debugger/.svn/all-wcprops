@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/ForwardingHeaders/debugger
+END
+DebuggerCallFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/ForwardingHeaders/debugger/DebuggerCallFrame.h
+END
+Debugger.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/ForwardingHeaders/debugger/Debugger.h
+END
+DebuggerActivation.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/ForwardingHeaders/debugger/DebuggerActivation.h
+END

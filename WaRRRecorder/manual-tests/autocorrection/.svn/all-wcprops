@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/autocorrection
+END
+move-to-end-of-word-to-show-reversion.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/autocorrection/move-to-end-of-word-to-show-reversion.html
+END
+type-whitespace-to-dismiss-reversion.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/autocorrection/type-whitespace-to-dismiss-reversion.html
+END
+continue-typing-to-dismiss-reversion.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/autocorrection/continue-typing-to-dismiss-reversion.html
+END
+dismiss-multiple-guesses.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/autocorrection/dismiss-multiple-guesses.html
+END
+autocorrection-contraction.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/autocorrection/autocorrection-contraction.html
+END
+delete-to-dismiss-reversion.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/autocorrection/delete-to-dismiss-reversion.html
+END
+select-from-multiple-guesses.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/autocorrection/select-from-multiple-guesses.html
+END
+autocorrection-cancelled-by-typing-1.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/autocorrection/autocorrection-cancelled-by-typing-1.html
+END
+autocorrection-cancelled-by-ESC.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/autocorrection/autocorrection-cancelled-by-ESC.html
+END
+delete-to-end-of-word-to-show-reversion.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/autocorrection/delete-to-end-of-word-to-show-reversion.html
+END

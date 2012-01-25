@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/text/transcoder
+END
+FontTranscoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/text/transcoder/FontTranscoder.h
+END
+FontTranscoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/text/transcoder/FontTranscoder.cpp
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/soup/cache
+END
+soup-directory-input-stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/soup/cache/soup-directory-input-stream.c
+END
+soup-http-input-stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/soup/cache/soup-http-input-stream.h
+END
+soup-request-file.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/soup/cache/soup-request-file.h
+END
+soup-request-http.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/soup/cache/soup-request-http.h
+END
+soup-request.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/soup/cache/soup-request.h
+END
+soup-directory-input-stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/soup/cache/soup-directory-input-stream.h
+END
+soup-request-data.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/soup/cache/soup-request-data.c
+END
+soup-requester.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/soup/cache/soup-requester.c
+END
+soup-request-data.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/soup/cache/soup-request-data.h
+END
+soup-requester.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/soup/cache/soup-requester.h
+END
+soup-http-input-stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/soup/cache/soup-http-input-stream.c
+END
+soup-request-file.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/soup/cache/soup-request-file.c
+END
+soup-request-http.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/soup/cache/soup-request-http.c
+END
+soup-request.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/soup/cache/soup-request.c
+END

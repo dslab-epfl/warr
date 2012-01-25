@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/chromium
+END
+NetworkStateNotifierChromium.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/chromium/NetworkStateNotifierChromium.cpp
+END
+ResourceRequest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/chromium/ResourceRequest.cpp
+END
+SocketStreamError.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/chromium/SocketStreamError.h
+END
+ResourceRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/chromium/ResourceRequest.h
+END
+SocketStreamHandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/chromium/SocketStreamHandle.h
+END
+AuthenticationChallengeChromium.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/chromium/AuthenticationChallengeChromium.cpp
+END
+ResourceError.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/chromium/ResourceError.h
+END
+ResourceResponse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/chromium/ResourceResponse.cpp
+END
+AuthenticationChallenge.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/chromium/AuthenticationChallenge.h
+END
+DNSChromium.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/chromium/DNSChromium.cpp
+END
+CookieJarChromium.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/chromium/CookieJarChromium.cpp
+END
+NetworkStateNotifierPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/chromium/NetworkStateNotifierPrivate.h
+END
+ResourceResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/chromium/ResourceResponse.h
+END

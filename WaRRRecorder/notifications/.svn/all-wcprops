@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/notifications
+END
+NotificationPresenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/notifications/NotificationPresenter.h
+END
+Notification.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/notifications/Notification.cpp
+END
+NotificationCenter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/notifications/NotificationCenter.cpp
+END
+NotificationContents.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/notifications/NotificationContents.h
+END
+Notification.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/notifications/Notification.h
+END
+Notification.idl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/notifications/Notification.idl
+END
+NotificationCenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/notifications/NotificationCenter.h
+END
+NotificationCenter.idl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/notifications/NotificationCenter.idl
+END

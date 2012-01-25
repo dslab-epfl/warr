@@ -1,0 +1,7 @@
+
+java_library(name = "common",
+  srcs = [ "*.java" ],
+  deps = [
+    "//third_party/java/guava-libraries",
+    "//third_party/java/json",
+  ])

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/compositing
+END
+assert-on-tab-switch.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/compositing/assert-on-tab-switch.html
+END
+caret-in-compositing-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/compositing/caret-in-compositing-frame.html
+END
+missing-iframe-contents.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/compositing/missing-iframe-contents.html
+END
+show-composited-iframe-on-back-button.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/compositing/show-composited-iframe-on-back-button.html
+END
+accel-comp-iframe-tab-repaint.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/compositing/accel-comp-iframe-tab-repaint.html
+END
+font-smoothing.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/compositing/font-smoothing.html
+END

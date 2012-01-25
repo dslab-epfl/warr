@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repository/webkit/!svn/ver/75704/trunk/Source/WebCore
+END
+ChangeLog-2008-08-10
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/ChangeLog-2008-08-10
+END
+ChangeLog-2005-12-19
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/ChangeLog-2005-12-19
+END
+Android.jscbindings.mk
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/Android.jscbindings.mk
+END
+GNUmakefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/webkit/!svn/ver/75507/trunk/Source/WebCore/GNUmakefile.am
+END
+WebCorePrefix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/WebCorePrefix.cpp
+END
+ChangeLog-2009-06-16
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/ChangeLog-2009-06-16
+END
+WebCore.exp.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/webkit/!svn/ver/75662/trunk/Source/WebCore/WebCore.exp.in
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/webkit/!svn/ver/75619/trunk/Source/WebCore/config.h
+END
+make-export-file-generator
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/make-export-file-generator
+END
+WebCore.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/webkit/!svn/ver/75367/trunk/Source/WebCore/WebCore.gypi
+END
+WebCore.order
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/WebCore.order
+END
+DerivedSources.make
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/DerivedSources.make
+END
+CMakeListsWinCE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75383/trunk/Source/WebCore/CMakeListsWinCE.txt
+END
+Android.derived.jscbindings.mk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/Android.derived.jscbindings.mk
+END
+make-hash-tools.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/make-hash-tools.pl
+END
+DerivedSources.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/DerivedSources.cpp
+END
+ChangeLog-2002-12-03
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/ChangeLog-2002-12-03
+END
+WebCore.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/WebCore.qrc
+END
+ChangeLog-2003-10-25
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/ChangeLog-2003-10-25
+END
+ChangeLog-2010-05-24
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/ChangeLog-2010-05-24
+END
+ChangeLog-2006-05-10
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/ChangeLog-2006-05-10
+END
+LICENSE-LGPL-2
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/LICENSE-LGPL-2
+END
+ChangeLog-2010-01-29
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/ChangeLog-2010-01-29
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/webkit/!svn/ver/75383/trunk/Source/WebCore/CMakeLists.txt
+END
+WebCore.pri
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/WebCore.pri
+END
+Android.derived.v8bindings.mk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/Android.derived.v8bindings.mk
+END
+LICENSE-APPLE
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/LICENSE-APPLE
+END
+ChangeLog-2005-08-23
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/ChangeLog-2005-08-23
+END
+WebCore.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/webkit/!svn/ver/75363/trunk/Source/WebCore/WebCore.pro
+END
+DerivedSources.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/DerivedSources.pro
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/Info.plist
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/webkit/!svn/ver/75363/trunk/Source/WebCore/Android.mk
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/webkit/!svn/ver/75704/trunk/Source/WebCore/ChangeLog
+END
+combine-javascript-resources
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/combine-javascript-resources
+END
+WebCorePrefix.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/WebCorePrefix.h
+END
+Android.v8bindings.mk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/Android.v8bindings.mk
+END
+move-js-headers.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/move-js-headers.sh
+END
+make-generated-sources.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/make-generated-sources.sh
+END
+CMakeListsEfl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/CMakeListsEfl.txt
+END
+Android.derived.mk
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/Android.derived.mk
+END
+features.pri
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/features.pri
+END
+ChangeLog-2010-12-06
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/ChangeLog-2010-12-06
+END
+LICENSE-LGPL-2.1
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/LICENSE-LGPL-2.1
+END
+ChangeLog-2006-12-31
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/ChangeLog-2006-12-31
+END
+ChangeLog-2007-10-14
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/ChangeLog-2007-10-14
+END

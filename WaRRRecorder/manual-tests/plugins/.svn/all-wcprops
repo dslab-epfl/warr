@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/plugins
+END
+windowless.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/plugins/windowless.html
+END
+gtk-windowed-grey-glitch.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/plugins/gtk-windowed-grey-glitch.html
+END
+timeout-dialog-displayed-over-navigation.swf
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/plugins/timeout-dialog-displayed-over-navigation.swf
+END
+windowed.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/plugins/windowed.html
+END
+plugin-paint-causes-layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/plugins/plugin-paint-causes-layout.html
+END
+timeout-dialog-displayed-over-navigation.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/plugins/timeout-dialog-displayed-over-navigation.html
+END
+object-clipping.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/plugins/object-clipping.html
+END
+flip4mac-update-alert-over-navigation.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/plugins/flip4mac-update-alert-over-navigation.html
+END
+test.swf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/plugins/test.swf
+END

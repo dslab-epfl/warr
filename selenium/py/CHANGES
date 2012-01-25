@@ -1,0 +1,23 @@
+Selenium 2 Beta 2
+
+* New bindings landed. Change webdriver namespace to "selenium.webdriver"
+* Ability to move to default content
+* Implicit Waits
+* Change the API to use properties instead of get_x
+* Changed the Element Finding to match other languages
+* Added ability to execute asynchronous scripts from the driver
+* Ability to get rendered element size
+* Ability to get CSS Value on a webelement
+* Corrected Element finding from the element
+* Alert and Prompt handling
+* Improved IEDriver
+* Basic Authentication support for Selenium 2
+* Ability to have multiple Firefox instances
+
+Selenium 2 Beta 3
+* Accept Untrusted Certificates in Firefox
+* Fixed Screenshots
+* Added DesiredCapabilities to simplify choosing Drivers
+* Fixed Firefox Profile creation
+* Added Firefox 4 support
+* DocStrings Improvements

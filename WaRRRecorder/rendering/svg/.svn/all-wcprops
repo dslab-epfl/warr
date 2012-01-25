@@ -1,0 +1,611 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/webkit/!svn/ver/75351/trunk/Source/WebCore/rendering/svg
+END
+SVGTextQuery.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75325/trunk/Source/WebCore/rendering/svg/SVGTextQuery.h
+END
+SVGTextLayoutEngineBaseline.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/rendering/svg/SVGTextLayoutEngineBaseline.h
+END
+RenderSVGResourceRadialGradient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResourceRadialGradient.cpp
+END
+SVGTextLayoutEngineSpacing.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/rendering/svg/SVGTextLayoutEngineSpacing.h
+END
+RenderSVGInline.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75325/trunk/Source/WebCore/rendering/svg/RenderSVGInline.h
+END
+RenderSVGTSpan.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75325/trunk/Source/WebCore/rendering/svg/RenderSVGTSpan.cpp
+END
+RenderSVGResourceContainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResourceContainer.cpp
+END
+SVGRootInlineBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75325/trunk/Source/WebCore/rendering/svg/SVGRootInlineBox.cpp
+END
+SVGImageBufferTools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/SVGImageBufferTools.cpp
+END
+RenderSVGResourceFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResourceFilter.cpp
+END
+RenderSVGHiddenContainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGHiddenContainer.cpp
+END
+SVGResourcesCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/SVGResourcesCache.cpp
+END
+RenderSVGBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGBlock.h
+END
+RenderSVGResourceLinearGradient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResourceLinearGradient.cpp
+END
+RenderSVGTextPath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75325/trunk/Source/WebCore/rendering/svg/RenderSVGTextPath.cpp
+END
+RenderSVGResourceGradient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResourceGradient.cpp
+END
+SVGTextLayoutEngine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/rendering/svg/SVGTextLayoutEngine.cpp
+END
+RenderSVGResourceClipper.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResourceClipper.h
+END
+SVGTextLayoutEngineBaseline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repository/webkit/!svn/ver/75325/trunk/Source/WebCore/rendering/svg/SVGTextLayoutEngineBaseline.cpp
+END
+RenderSVGShadowTreeRootContainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGShadowTreeRootContainer.cpp
+END
+SVGTextLayoutEngineSpacing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/rendering/svg/SVGTextLayoutEngineSpacing.cpp
+END
+RenderSVGForeignObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repository/webkit/!svn/ver/75351/trunk/Source/WebCore/rendering/svg/RenderSVGForeignObject.cpp
+END
+SVGMarkerData.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/SVGMarkerData.h
+END
+SVGTextMetrics.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/rendering/svg/SVGTextMetrics.h
+END
+RenderSVGViewportContainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGViewportContainer.cpp
+END
+RenderSVGContainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGContainer.cpp
+END
+SVGInlineFlowBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75325/trunk/Source/WebCore/rendering/svg/SVGInlineFlowBox.h
+END
+SVGTextChunkBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/rendering/svg/SVGTextChunkBuilder.cpp
+END
+RenderSVGResourceFilterPrimitive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResourceFilterPrimitive.cpp
+END
+RenderSVGResourceRadialGradient.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResourceRadialGradient.h
+END
+RenderSVGInlineText.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75325/trunk/Source/WebCore/rendering/svg/RenderSVGInlineText.h
+END
+RenderSVGResourcePattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResourcePattern.h
+END
+RenderSVGPath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75325/trunk/Source/WebCore/rendering/svg/RenderSVGPath.cpp
+END
+RenderSVGResource.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResource.h
+END
+RenderSVGResourceContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResourceContainer.h
+END
+SVGTextLayoutAttributesBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/rendering/svg/SVGTextLayoutAttributesBuilder.cpp
+END
+SVGShadowTreeElements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/SVGShadowTreeElements.cpp
+END
+RenderSVGHiddenContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGHiddenContainer.h
+END
+SVGResourcesCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/SVGResourcesCache.h
+END
+RenderSVGResourceLinearGradient.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResourceLinearGradient.h
+END
+RenderSVGGradientStop.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGGradientStop.h
+END
+SVGResources.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/SVGResources.cpp
+END
+SVGTextMetrics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/rendering/svg/SVGTextMetrics.cpp
+END
+SVGRenderSupport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/SVGRenderSupport.cpp
+END
+SVGTextLayoutEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/rendering/svg/SVGTextLayoutEngine.h
+END
+SVGInlineFlowBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75325/trunk/Source/WebCore/rendering/svg/SVGInlineFlowBox.cpp
+END
+RenderSVGShadowTreeRootContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGShadowTreeRootContainer.h
+END
+RenderSVGImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGImage.cpp
+END
+SVGTextChunk.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/rendering/svg/SVGTextChunk.h
+END
+RenderSVGInlineText.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/webkit/!svn/ver/75325/trunk/Source/WebCore/rendering/svg/RenderSVGInlineText.cpp
+END
+RenderSVGText.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75325/trunk/Source/WebCore/rendering/svg/RenderSVGText.cpp
+END
+RenderSVGResourcePattern.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResourcePattern.cpp
+END
+RenderSVGForeignObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repository/webkit/!svn/ver/75351/trunk/Source/WebCore/rendering/svg/RenderSVGForeignObject.h
+END
+RenderSVGResourceSolidColor.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResourceSolidColor.h
+END
+RenderSVGViewportContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGViewportContainer.h
+END
+RenderSVGContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGContainer.h
+END
+RenderSVGResource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResource.cpp
+END
+RenderSVGRoot.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGRoot.h
+END
+SVGRenderTreeAsText.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/SVGRenderTreeAsText.cpp
+END
+SVGTextChunkBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/rendering/svg/SVGTextChunkBuilder.h
+END
+RenderSVGResourceMasker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResourceMasker.cpp
+END
+SVGResourcesCycleSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/SVGResourcesCycleSolver.h
+END
+RenderSVGResourceFilterPrimitive.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResourceFilterPrimitive.h
+END
+SVGInlineTextBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75325/trunk/Source/WebCore/rendering/svg/SVGInlineTextBox.cpp
+END
+RenderSVGModelObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGModelObject.h
+END
+RenderSVGResourceMarker.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResourceMarker.h
+END
+SVGTextLayoutAttributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/rendering/svg/SVGTextLayoutAttributes.h
+END
+SVGMarkerLayoutInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/SVGMarkerLayoutInfo.h
+END
+RenderSVGPath.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75325/trunk/Source/WebCore/rendering/svg/RenderSVGPath.h
+END
+RenderSVGTransformableContainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGTransformableContainer.cpp
+END
+RenderSVGGradientStop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGGradientStop.cpp
+END
+SVGTextLayoutAttributesBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/rendering/svg/SVGTextLayoutAttributesBuilder.h
+END
+SVGShadowTreeElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/SVGShadowTreeElements.h
+END
+SVGTextQuery.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75325/trunk/Source/WebCore/rendering/svg/SVGTextQuery.cpp
+END
+SVGTextChunk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/rendering/svg/SVGTextChunk.cpp
+END
+SVGTextFragment.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/rendering/svg/SVGTextFragment.h
+END
+RenderSVGInline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/webkit/!svn/ver/75325/trunk/Source/WebCore/rendering/svg/RenderSVGInline.cpp
+END
+SVGResources.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/SVGResources.h
+END
+RenderSVGResourceSolidColor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResourceSolidColor.cpp
+END
+SVGRenderSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/SVGRenderSupport.h
+END
+RenderSVGRoot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGRoot.cpp
+END
+SVGResourcesCycleSolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/SVGResourcesCycleSolver.cpp
+END
+RenderSVGImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGImage.h
+END
+RenderSVGModelObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGModelObject.cpp
+END
+RenderSVGText.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75325/trunk/Source/WebCore/rendering/svg/RenderSVGText.h
+END
+RenderSVGResourceMarker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResourceMarker.cpp
+END
+SVGTextLayoutAttributes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/rendering/svg/SVGTextLayoutAttributes.cpp
+END
+RenderSVGTSpan.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75325/trunk/Source/WebCore/rendering/svg/RenderSVGTSpan.h
+END
+RenderSVGBlock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75351/trunk/Source/WebCore/rendering/svg/RenderSVGBlock.cpp
+END
+SVGMarkerLayoutInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/SVGMarkerLayoutInfo.cpp
+END
+SVGRenderTreeAsText.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/SVGRenderTreeAsText.h
+END
+RenderSVGResourceMasker.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResourceMasker.h
+END
+SVGRootInlineBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75325/trunk/Source/WebCore/rendering/svg/SVGRootInlineBox.h
+END
+RenderSVGAllInOne.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75351/trunk/Source/WebCore/rendering/svg/RenderSVGAllInOne.cpp
+END
+SVGInlineTextBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75325/trunk/Source/WebCore/rendering/svg/SVGInlineTextBox.h
+END
+SVGImageBufferTools.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/SVGImageBufferTools.h
+END
+RenderSVGResourceFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResourceFilter.h
+END
+RenderSVGTextPath.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/webkit/!svn/ver/75325/trunk/Source/WebCore/rendering/svg/RenderSVGTextPath.h
+END
+RenderSVGResourceClipper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResourceClipper.cpp
+END
+RenderSVGTransformableContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGTransformableContainer.h
+END
+RenderSVGResourceGradient.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/webkit/!svn/ver/75350/trunk/Source/WebCore/rendering/svg/RenderSVGResourceGradient.h
+END

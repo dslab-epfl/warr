@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/bridge/jni/jsc
+END
+JNIUtilityPrivate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/bridge/jni/jsc/JNIUtilityPrivate.cpp
+END
+JavaRuntimeObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/bridge/jni/jsc/JavaRuntimeObject.h
+END
+JNIBridgeJSC.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/bridge/jni/jsc/JNIBridgeJSC.h
+END
+JNIUtilityPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/bridge/jni/jsc/JNIUtilityPrivate.h
+END
+JavaInstanceJSC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/bridge/jni/jsc/JavaInstanceJSC.cpp
+END
+JavaClassJSC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/bridge/jni/jsc/JavaClassJSC.cpp
+END
+JavaInstanceJSC.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/bridge/jni/jsc/JavaInstanceJSC.h
+END
+JavaClassJSC.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/bridge/jni/jsc/JavaClassJSC.h
+END
+JavaRuntimeObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/bridge/jni/jsc/JavaRuntimeObject.cpp
+END
+JNIBridgeJSC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/bridge/jni/jsc/JNIBridgeJSC.cpp
+END
+JavaStringJSC.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/bridge/jni/jsc/JavaStringJSC.h
+END

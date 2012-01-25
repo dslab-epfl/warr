@@ -1,0 +1,2723 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/webkit/!svn/ver/75377/trunk/Source/WebCore/svg
+END
+SVGNumber.idl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGNumber.idl
+END
+ElementTimeControl.idl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/ElementTimeControl.idl
+END
+SVGPreserveAspectRatio.idl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPreserveAspectRatio.idl
+END
+SVGException.idl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGException.idl
+END
+SVGPathSegCurvetoQuadraticSmoothRel.idl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegCurvetoQuadraticSmoothRel.idl
+END
+SVGPathSegCurvetoCubicAbs.idl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegCurvetoCubicAbs.idl
+END
+SVGVKernElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGVKernElement.idl
+END
+SVGMPathElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGMPathElement.h
+END
+SVGAnimateTransformElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimateTransformElement.h
+END
+SVGPathStringBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathStringBuilder.cpp
+END
+SVGPreserveAspectRatio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPreserveAspectRatio.cpp
+END
+SVGStyledLocatableElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGStyledLocatableElement.h
+END
+SVGFilterPrimitiveStandardAttributes.idl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFilterPrimitiveStandardAttributes.idl
+END
+SVGAnimatedNumberList.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedNumberList.h
+END
+SVGFECompositeElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFECompositeElement.h
+END
+SVGFontFaceSrcElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFontFaceSrcElement.idl
+END
+SVGParserUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGParserUtilities.h
+END
+SVGAnimatedEnumeration.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedEnumeration.h
+END
+SVGVKernElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGVKernElement.cpp
+END
+SVGStopElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGStopElement.h
+END
+SVGURIReference.idl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGURIReference.idl
+END
+SVGFEDiffuseLightingElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEDiffuseLightingElement.h
+END
+SVGFilterPrimitiveStandardAttributes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repository/webkit/!svn/ver/75377/trunk/Source/WebCore/svg/SVGFilterPrimitiveStandardAttributes.cpp
+END
+SVGPathParserFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathParserFactory.h
+END
+SVGFontFaceSrcElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFontFaceSrcElement.cpp
+END
+SVGPathSegLinetoHorizontalRel.idl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegLinetoHorizontalRel.idl
+END
+SVGPathSegLinetoVerticalAbs.idl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegLinetoVerticalAbs.idl
+END
+SVGComponentTransferFunctionElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGComponentTransferFunctionElement.idl
+END
+SVGPathSegCurvetoCubic.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegCurvetoCubic.h
+END
+SVGSVGElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGSVGElement.h
+END
+SVGURIReference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGURIReference.cpp
+END
+SVGMetadataElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGMetadataElement.idl
+END
+SVGPaint.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPaint.h
+END
+SVGTextPathElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTextPathElement.h
+END
+SVGMPathElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGMPathElement.cpp
+END
+SVGLangSpace.idl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGLangSpace.idl
+END
+SVGScriptElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGScriptElement.h
+END
+SVGRenderingIntent.idl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGRenderingIntent.idl
+END
+SVGHKernElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGHKernElement.h
+END
+SVGAnimatedInteger.idl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedInteger.idl
+END
+SVGComponentTransferFunctionElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGComponentTransferFunctionElement.cpp
+END
+SVGMetadataElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGMetadataElement.cpp
+END
+SVGFEPointLightElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEPointLightElement.idl
+END
+SVGFEFuncGElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEFuncGElement.h
+END
+SVGPathSegCurvetoCubicSmoothRel.idl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegCurvetoCubicSmoothRel.idl
+END
+SVGLangSpace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGLangSpace.cpp
+END
+SVGPathTraversalStateBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathTraversalStateBuilder.h
+END
+SVGPathStringBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathStringBuilder.h
+END
+SVGPreserveAspectRatio.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPreserveAspectRatio.h
+END
+SVGFEDisplacementMapElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEDisplacementMapElement.h
+END
+SVGPaint.idl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPaint.idl
+END
+SVGTextPathElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTextPathElement.idl
+END
+SVGElementRareData.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGElementRareData.h
+END
+SVGRect.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGRect.h
+END
+SVGFontElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFontElement.idl
+END
+SVGFEPointLightElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEPointLightElement.cpp
+END
+SVGTextPositioningElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTextPositioningElement.idl
+END
+SVGPathByteStreamBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathByteStreamBuilder.h
+END
+SVGMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGMatrix.h
+END
+SVGUnitTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGUnitTypes.h
+END
+SVGMaskElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGMaskElement.h
+END
+SVGFEMergeElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEMergeElement.idl
+END
+SVGPolylineElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPolylineElement.h
+END
+SVGPaint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPaint.cpp
+END
+SVGPointList.idl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPointList.idl
+END
+SVGTextPathElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTextPathElement.cpp
+END
+SVGAngle.idl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAngle.idl
+END
+SVGTransformList.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTransformList.h
+END
+SVGAnimateColorElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimateColorElement.idl
+END
+SVGPathByteStreamSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathByteStreamSource.cpp
+END
+SVGPathSegList.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegList.idl
+END
+SVGAnimateElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimateElement.idl
+END
+SVGFEBlendElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEBlendElement.h
+END
+SVGFitToViewBox.idl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFitToViewBox.idl
+END
+SVGAnimatedAngle.idl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedAngle.idl
+END
+SVGFontElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFontElement.cpp
+END
+SVGFEDisplacementMapElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEDisplacementMapElement.idl
+END
+SVGTextPositioningElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTextPositioningElement.cpp
+END
+SVGFEMergeElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75377/trunk/Source/WebCore/svg/SVGFEMergeElement.cpp
+END
+SVGFilterElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFilterElement.idl
+END
+SVGPointList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPointList.cpp
+END
+SVGAngle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAngle.cpp
+END
+SVGLineElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGLineElement.idl
+END
+SVGAnimateColorElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimateColorElement.cpp
+END
+SVGPathSegList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegList.cpp
+END
+SVGAnimateElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimateElement.cpp
+END
+SVGFitToViewBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFitToViewBox.cpp
+END
+SVGFEMorphologyElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEMorphologyElement.h
+END
+SVGFEDisplacementMapElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75377/trunk/Source/WebCore/svg/SVGFEDisplacementMapElement.cpp
+END
+SVGSetElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGSetElement.idl
+END
+SVGGradientElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGGradientElement.idl
+END
+SVGEllipseElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGEllipseElement.idl
+END
+SVGStyledTransformableElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGStyledTransformableElement.cpp
+END
+SVGMetadataElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGMetadataElement.h
+END
+SVGFilterElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFilterElement.cpp
+END
+SVGAnimatedTransformList.idl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedTransformList.idl
+END
+SVGAnimatedNumber.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedNumber.h
+END
+SVGLineElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGLineElement.cpp
+END
+SVGPathByteStreamBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathByteStreamBuilder.cpp
+END
+SVGFontFaceNameElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFontFaceNameElement.h
+END
+SVGSetElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGSetElement.cpp
+END
+SVGAnimatedLengthList.idl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedLengthList.idl
+END
+SVGGradientElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGGradientElement.cpp
+END
+SVGEllipseElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGEllipseElement.cpp
+END
+SVGFEFuncBElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEFuncBElement.idl
+END
+SVGAnimateTransformElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimateTransformElement.idl
+END
+SVGViewSpec.idl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGViewSpec.idl
+END
+SVGPathParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathParser.h
+END
+SVGAnimatedNumber.idl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedNumber.idl
+END
+SVGFEFuncBElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEFuncBElement.cpp
+END
+svgtags.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/svgtags.in
+END
+SVGClipPathElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGClipPathElement.h
+END
+SVGAnimateTransformElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimateTransformElement.cpp
+END
+SVGViewSpec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGViewSpec.cpp
+END
+SVGAnimatedRect.idl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedRect.idl
+END
+SVGFEFuncRElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEFuncRElement.idl
+END
+SVGLocatable.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGLocatable.h
+END
+SVGZoomEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGZoomEvent.h
+END
+SVGFEColorMatrixElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEColorMatrixElement.h
+END
+SVGRectElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGRectElement.idl
+END
+ElementTimeControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/ElementTimeControl.h
+END
+SVGAllInOne.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAllInOne.cpp
+END
+SVGPathSegMovetoAbs.idl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegMovetoAbs.idl
+END
+SVGGlyphElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGGlyphElement.h
+END
+SVGFEFuncRElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEFuncRElement.cpp
+END
+SVGLengthList.idl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGLengthList.idl
+END
+SVGExternalResourcesRequired.idl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGExternalResourcesRequired.idl
+END
+SVGRectElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGRectElement.cpp
+END
+SVGLengthList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGLengthList.cpp
+END
+SVGDescElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGDescElement.idl
+END
+SVGExternalResourcesRequired.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGExternalResourcesRequired.cpp
+END
+SVGAnimatedTransformList.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedTransformList.h
+END
+SVGPoint.idl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPoint.idl
+END
+SVGSwitchElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGSwitchElement.h
+END
+SVGTransform.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTransform.h
+END
+SVGColor.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGColor.h
+END
+SVGFontFaceUriElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFontFaceUriElement.h
+END
+SVGSymbolElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGSymbolElement.h
+END
+SVGTransformable.idl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTransformable.idl
+END
+SVGFEFuncBElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEFuncBElement.h
+END
+SVGDescElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGDescElement.cpp
+END
+SVGTests.idl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTests.idl
+END
+SVGMatrix.idl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGMatrix.idl
+END
+SVGUnitTypes.idl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGUnitTypes.idl
+END
+SVGDocumentExtensions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGDocumentExtensions.cpp
+END
+SVGTransformable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTransformable.cpp
+END
+SVGSwitchElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGSwitchElement.idl
+END
+SVGTransform.idl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTransform.idl
+END
+SVGTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTests.cpp
+END
+SVGFEFuncRElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEFuncRElement.h
+END
+SVGFEMorphologyElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEMorphologyElement.idl
+END
+SVGPathElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathElement.h
+END
+SVGPathSegLineto.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegLineto.h
+END
+SVGSwitchElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGSwitchElement.cpp
+END
+SVGTransform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTransform.cpp
+END
+SVGPathSegLinetoAbs.idl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegLinetoAbs.idl
+END
+SVGAnimateMotionElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimateMotionElement.h
+END
+SVGElementInstance.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGElementInstance.h
+END
+SVGStyledElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGStyledElement.h
+END
+SVGFEMorphologyElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75377/trunk/Source/WebCore/svg/SVGFEMorphologyElement.cpp
+END
+SVGFontFaceElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFontFaceElement.idl
+END
+SVGPathSegLinetoHorizontal.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegLinetoHorizontal.h
+END
+SVGStyledLocatableElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGStyledLocatableElement.cpp
+END
+SVGTSpanElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTSpanElement.idl
+END
+SVGTextPositioningElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTextPositioningElement.h
+END
+SVGStringList.idl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGStringList.idl
+END
+SVGFitToViewBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFitToViewBox.h
+END
+SVGAnimatedAngle.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedAngle.h
+END
+SVGFontFaceElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFontFaceElement.cpp
+END
+SVGTSpanElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTSpanElement.cpp
+END
+SVGTRefElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTRefElement.idl
+END
+SVGAnimatedPreserveAspectRatio.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedPreserveAspectRatio.h
+END
+SVGStringList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGStringList.cpp
+END
+SVGTextElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTextElement.h
+END
+SVGStylable.idl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGStylable.idl
+END
+SVGLineElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGLineElement.h
+END
+SVGFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFont.cpp
+END
+SVGLength.idl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGLength.idl
+END
+SVGTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTests.h
+END
+SVGPathStringSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathStringSource.h
+END
+SVGTRefElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTRefElement.cpp
+END
+SVGZoomAndPan.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGZoomAndPan.h
+END
+SVGCursorElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGCursorElement.idl
+END
+SVGStylable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGStylable.cpp
+END
+SVGLength.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGLength.cpp
+END
+SVGDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGDocument.h
+END
+SVGRect.idl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGRect.idl
+END
+SVGCursorElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGCursorElement.cpp
+END
+SVGAnimatedLength.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedLength.h
+END
+SVGRadialGradientElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGRadialGradientElement.h
+END
+SVGViewElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGViewElement.h
+END
+SVGMaskElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGMaskElement.idl
+END
+SVGPolylineElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPolylineElement.idl
+END
+SVGTransformDistance.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTransformDistance.h
+END
+SVGMissingGlyphElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGMissingGlyphElement.h
+END
+SVGPathSegListBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegListBuilder.cpp
+END
+SVGAnimatedString.idl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedString.idl
+END
+SVGMaskElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGMaskElement.cpp
+END
+SVGAnimatedInteger.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedInteger.h
+END
+SVGPolylineElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPolylineElement.cpp
+END
+SVGPathSegCurvetoQuadraticSmoothAbs.idl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegCurvetoQuadraticSmoothAbs.idl
+END
+SVGStringList.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGStringList.h
+END
+SVGPathSegCurvetoCubicSmooth.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegCurvetoCubicSmooth.h
+END
+SVGImageLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGImageLoader.cpp
+END
+SVGTRefElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTRefElement.h
+END
+SVGForeignObjectElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGForeignObjectElement.idl
+END
+SVGAElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAElement.idl
+END
+SVGPathSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSource.h
+END
+SVGFontElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFontElement.h
+END
+SVGNumberList.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGNumberList.h
+END
+SVGForeignObjectElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75351/trunk/Source/WebCore/svg/SVGForeignObjectElement.cpp
+END
+SVGAElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAElement.cpp
+END
+SVGPathSegLinetoHorizontalAbs.idl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegLinetoHorizontalAbs.idl
+END
+SVGAnimateElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimateElement.h
+END
+SVGFontData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFontData.cpp
+END
+SVGDefsElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGDefsElement.h
+END
+SVGPathSegWithContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegWithContext.h
+END
+SVGFETurbulenceElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75377/trunk/Source/WebCore/svg/SVGFETurbulenceElement.h
+END
+SVGScriptElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGScriptElement.idl
+END
+SVGVKernElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGVKernElement.h
+END
+SVGPathSegCurvetoQuadratic.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegCurvetoQuadratic.h
+END
+SVGFEFuncAElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEFuncAElement.idl
+END
+xlinkattrs.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/xlinkattrs.in
+END
+ColorDistance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/ColorDistance.cpp
+END
+SVGFontFaceSrcElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFontFaceSrcElement.h
+END
+SVGPatternElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPatternElement.idl
+END
+SVGScriptElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGScriptElement.cpp
+END
+SVGPathSegCurvetoCubicSmoothAbs.idl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegCurvetoCubicSmoothAbs.idl
+END
+SVGTextContentElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTextContentElement.idl
+END
+SVGFEMergeNodeElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEMergeNodeElement.idl
+END
+SVGDefsElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGDefsElement.idl
+END
+SVGFEFuncAElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEFuncAElement.cpp
+END
+SVGGlyphElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGGlyphElement.idl
+END
+SVGAnimatedLengthList.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedLengthList.h
+END
+SVGPathSegArc.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegArc.h
+END
+SVGPatternElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPatternElement.cpp
+END
+SVGTextContentElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75377/trunk/Source/WebCore/svg/SVGTextContentElement.cpp
+END
+SVGFEMergeNodeElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEMergeNodeElement.cpp
+END
+SVGPathSegCurvetoQuadraticRel.idl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegCurvetoQuadraticRel.idl
+END
+SVGPathSegMoveto.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegMoveto.h
+END
+SVGDefsElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGDefsElement.cpp
+END
+SVGComponentTransferFunctionElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGComponentTransferFunctionElement.h
+END
+SVGGlyphElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGGlyphElement.cpp
+END
+SVGFEImageElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEImageElement.idl
+END
+SVGForeignObjectElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGForeignObjectElement.h
+END
+SVGAElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAElement.h
+END
+SVGMarkerElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGMarkerElement.h
+END
+SVGPathByteStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathByteStream.h
+END
+SVGPolyElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPolyElement.h
+END
+SVGAltGlyphElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAltGlyphElement.h
+END
+SVGPathSegClosePath.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegClosePath.h
+END
+SVGPathStringSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathStringSource.cpp
+END
+SVGRenderingIntent.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGRenderingIntent.h
+END
+SVGAnimatedRect.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedRect.h
+END
+SVGFEImageElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEImageElement.cpp
+END
+SVGAnimatedLength.idl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedLength.idl
+END
+SVGPathSegArcRel.idl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegArcRel.idl
+END
+SVGRadialGradientElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGRadialGradientElement.idl
+END
+SVGViewElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGViewElement.idl
+END
+SVGUseElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGUseElement.h
+END
+SVGAnimatedNumberList.idl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedNumberList.idl
+END
+SVGFECompositeElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFECompositeElement.idl
+END
+SVGFEFloodElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEFloodElement.idl
+END
+SVGAnimationElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimationElement.idl
+END
+SVGMarkerElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGMarkerElement.idl
+END
+svgattrs.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/svgattrs.in
+END
+SVGRadialGradientElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGRadialGradientElement.cpp
+END
+SVGViewElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGViewElement.cpp
+END
+SVGStopElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGStopElement.idl
+END
+SVGLength.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGLength.h
+END
+SVGGElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGGElement.idl
+END
+SVGFECompositeElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75377/trunk/Source/WebCore/svg/SVGFECompositeElement.cpp
+END
+SVGFEFloodElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEFloodElement.cpp
+END
+SVGPathBlender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathBlender.cpp
+END
+SVGAnimationElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimationElement.cpp
+END
+SVGMarkerElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGMarkerElement.cpp
+END
+SVGAnimateColorElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimateColorElement.h
+END
+SVGPathSegList.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegList.h
+END
+SVGDescElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGDescElement.h
+END
+SVGFEMergeNodeElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEMergeNodeElement.h
+END
+SVGStopElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGStopElement.cpp
+END
+SVGGElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGGElement.cpp
+END
+SVGFEComponentTransferElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEComponentTransferElement.h
+END
+SVGPathSegCurvetoCubicRel.idl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegCurvetoCubicRel.idl
+END
+SVGException.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGException.h
+END
+SVGFilterElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFilterElement.h
+END
+SVGClipPathElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGClipPathElement.idl
+END
+SVGFETileElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFETileElement.idl
+END
+SVGFEConvolveMatrixElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75377/trunk/Source/WebCore/svg/SVGFEConvolveMatrixElement.h
+END
+SVGNumberList.idl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGNumberList.idl
+END
+SVGFilterPrimitiveStandardAttributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repository/webkit/!svn/ver/75377/trunk/Source/WebCore/svg/SVGFilterPrimitiveStandardAttributes.h
+END
+SVGLocatable.idl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGLocatable.idl
+END
+SVGGradientElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGGradientElement.h
+END
+SVGEllipseElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGEllipseElement.h
+END
+SVGZoomEvent.idl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGZoomEvent.idl
+END
+SVGFEFuncGElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEFuncGElement.idl
+END
+SVGImageLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGImageLoader.h
+END
+SVGClipPathElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGClipPathElement.cpp
+END
+SVGAnimatedString.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedString.h
+END
+SVGElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGElement.idl
+END
+SVGFETileElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75377/trunk/Source/WebCore/svg/SVGFETileElement.cpp
+END
+SVGAnimatedPreserveAspectRatio.idl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedPreserveAspectRatio.idl
+END
+SVGURIReference.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGURIReference.h
+END
+SVGNumberList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGNumberList.cpp
+END
+SVGLocatable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGLocatable.cpp
+END
+SVGZoomEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGZoomEvent.cpp
+END
+SVGFEFuncGElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEFuncGElement.cpp
+END
+GradientAttributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/GradientAttributes.h
+END
+SVGElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/webkit/!svn/ver/75377/trunk/Source/WebCore/svg/SVGElement.cpp
+END
+SVGPathSegLinetoVerticalRel.idl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegLinetoVerticalRel.idl
+END
+SVGTransformList.idl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTransformList.idl
+END
+SVGFontFaceFormatElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFontFaceFormatElement.idl
+END
+SVGFELightElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFELightElement.h
+END
+SVGColor.idl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGColor.idl
+END
+SVGTransformList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTransformList.cpp
+END
+SVGFontFaceFormatElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFontFaceFormatElement.cpp
+END
+SVGPathSegListSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegListSource.cpp
+END
+SVGFEPointLightElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEPointLightElement.h
+END
+SVGRectElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGRectElement.h
+END
+SVGColor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGColor.cpp
+END
+ColorDistance.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/ColorDistance.h
+END
+SVGFESpecularLightingElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFESpecularLightingElement.idl
+END
+SVGFEFuncAElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEFuncAElement.h
+END
+SVGFEDiffuseLightingElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEDiffuseLightingElement.idl
+END
+SVGFETileElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFETileElement.h
+END
+SVGLinearGradientElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGLinearGradientElement.idl
+END
+SVGParserUtilities.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGParserUtilities.cpp
+END
+SVGFESpecularLightingElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/75377/trunk/Source/WebCore/svg/SVGFESpecularLightingElement.cpp
+END
+SVGAngle.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAngle.h
+END
+SVGPathElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathElement.idl
+END
+SVGTextContentElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTextContentElement.h
+END
+SVGFEDiffuseLightingElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75377/trunk/Source/WebCore/svg/SVGFEDiffuseLightingElement.cpp
+END
+SVGPathSeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSeg.h
+END
+SVGStyleElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGStyleElement.idl
+END
+SVGImageElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGImageElement.h
+END
+SVGLinearGradientElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGLinearGradientElement.cpp
+END
+SVGStyledTransformableElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGStyledTransformableElement.h
+END
+SVGElementInstance.idl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGElementInstance.idl
+END
+SVGTransformable.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTransformable.h
+END
+SVGPathElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathElement.cpp
+END
+SVGPathBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathBuilder.h
+END
+SVGStyleElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGStyleElement.cpp
+END
+SVGPathConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathConsumer.h
+END
+SVGAnimateMotionElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimateMotionElement.cpp
+END
+SVGElementInstance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGElementInstance.cpp
+END
+SVGStyledElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGStyledElement.cpp
+END
+SVGPathSeg.idl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSeg.idl
+END
+SVGFEComponentTransferElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEComponentTransferElement.idl
+END
+SVGFETurbulenceElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFETurbulenceElement.idl
+END
+SVGTextElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTextElement.idl
+END
+SVGGlyphMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGGlyphMap.h
+END
+SVGPolygonElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPolygonElement.idl
+END
+SVGPathTraversalStateBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathTraversalStateBuilder.cpp
+END
+SVGFEGaussianBlurElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEGaussianBlurElement.h
+END
+SVGFEComponentTransferElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/webkit/!svn/ver/75377/trunk/Source/WebCore/svg/SVGFEComponentTransferElement.cpp
+END
+SVGZoomAndPan.idl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGZoomAndPan.idl
+END
+SVGFETurbulenceElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFETurbulenceElement.cpp
+END
+SVGAnimationElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimationElement.h
+END
+SVGTextElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTextElement.cpp
+END
+SVGPolygonElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPolygonElement.cpp
+END
+SVGLangSpace.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGLangSpace.h
+END
+SVGPathBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathBuilder.cpp
+END
+SVGFontFaceElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFontFaceElement.h
+END
+SVGDocument.idl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGDocument.idl
+END
+SVGTSpanElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTSpanElement.h
+END
+SVGFontFaceUriElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFontFaceUriElement.idl
+END
+SVGFontData.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFontData.h
+END
+SVGSymbolElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGSymbolElement.idl
+END
+SVGZoomAndPan.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGZoomAndPan.cpp
+END
+SVGLinearGradientElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGLinearGradientElement.h
+END
+SVGAnimatedBoolean.idl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedBoolean.idl
+END
+SVGDocument.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGDocument.cpp
+END
+SVGPathSegMovetoRel.idl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegMovetoRel.idl
+END
+SVGFontFaceUriElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFontFaceUriElement.cpp
+END
+SVGAnimatedEnumeration.idl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedEnumeration.idl
+END
+SVGStyleElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGStyleElement.h
+END
+SVGSymbolElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGSymbolElement.cpp
+END
+SVGCircleElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGCircleElement.h
+END
+SVGPathByteStreamSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathByteStreamSource.h
+END
+SVGExternalResourcesRequired.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGExternalResourcesRequired.h
+END
+SVGStylable.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGStylable.h
+END
+SVGFontFaceNameElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFontFaceNameElement.idl
+END
+SVGTransformDistance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTransformDistance.cpp
+END
+SVGFEDistantLightElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEDistantLightElement.h
+END
+SVGPointList.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPointList.h
+END
+SVGFELightElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFELightElement.cpp
+END
+SVGCursorElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGCursorElement.h
+END
+SVGPolyElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPolyElement.cpp
+END
+SVGElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/webkit/!svn/ver/75377/trunk/Source/WebCore/svg/SVGElement.h
+END
+SVGSVGElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGSVGElement.idl
+END
+SVGFontFaceNameElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFontFaceNameElement.cpp
+END
+SVGElementInstanceList.idl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGElementInstanceList.idl
+END
+SVGPathSegCurvetoQuadraticSmooth.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegCurvetoQuadraticSmooth.h
+END
+SVGCircleElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGCircleElement.idl
+END
+SVGPathParserFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathParserFactory.cpp
+END
+SVGDocumentExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGDocumentExtensions.h
+END
+RadialGradientAttributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/RadialGradientAttributes.h
+END
+SVGHKernElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGHKernElement.idl
+END
+SVGFEDistantLightElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEDistantLightElement.idl
+END
+SVGSVGElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGSVGElement.cpp
+END
+SVGElementInstanceList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGElementInstanceList.cpp
+END
+SVGSetElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGSetElement.h
+END
+SVGCircleElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGCircleElement.cpp
+END
+SVGFEColorMatrixElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEColorMatrixElement.idl
+END
+SVGHKernElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGHKernElement.cpp
+END
+SVGImageElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGImageElement.idl
+END
+SVGFEDistantLightElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEDistantLightElement.cpp
+END
+LinearGradientAttributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/LinearGradientAttributes.h
+END
+SVGAnimatedBoolean.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAnimatedBoolean.h
+END
+SVGFESpotLightElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFESpotLightElement.idl
+END
+SVGFEColorMatrixElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75377/trunk/Source/WebCore/svg/SVGFEColorMatrixElement.cpp
+END
+SVGViewSpec.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGViewSpec.h
+END
+SVGFEConvolveMatrixElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEConvolveMatrixElement.idl
+END
+SVGImageElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGImageElement.cpp
+END
+SVGFEFloodElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEFloodElement.h
+END
+SVGPathBlender.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathBlender.h
+END
+SVGFESpecularLightingElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFESpecularLightingElement.h
+END
+SVGFEBlendElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEBlendElement.idl
+END
+SVGPathSegLinetoRel.idl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegLinetoRel.idl
+END
+SVGTitleElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTitleElement.h
+END
+SVGFESpotLightElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFESpotLightElement.cpp
+END
+SVGGElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGGElement.h
+END
+SVGFEConvolveMatrixElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75377/trunk/Source/WebCore/svg/SVGFEConvolveMatrixElement.cpp
+END
+SVGPathSegLinetoVertical.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegLinetoVertical.h
+END
+SVGFEBlendElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75377/trunk/Source/WebCore/svg/SVGFEBlendElement.cpp
+END
+SVGFEGaussianBlurElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEGaussianBlurElement.idl
+END
+SVGMissingGlyphElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGMissingGlyphElement.idl
+END
+SVGPathSegCurvetoQuadraticAbs.idl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegCurvetoQuadraticAbs.idl
+END
+SVGElementInstanceList.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGElementInstanceList.h
+END
+SVGFEOffsetElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEOffsetElement.h
+END
+SVGTitleElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTitleElement.idl
+END
+SVGLengthList.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGLengthList.h
+END
+SVGFEGaussianBlurElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75377/trunk/Source/WebCore/svg/SVGFEGaussianBlurElement.cpp
+END
+SVGAltGlyphElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAltGlyphElement.idl
+END
+SVGPathSegClosePath.idl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegClosePath.idl
+END
+SVGMissingGlyphElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGMissingGlyphElement.cpp
+END
+SVGFEMergeElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEMergeElement.h
+END
+SVGTitleElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGTitleElement.cpp
+END
+SVGPatternElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPatternElement.h
+END
+SVGUseElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGUseElement.idl
+END
+SVGPathSegArcAbs.idl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegArcAbs.idl
+END
+SVGAltGlyphElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGAltGlyphElement.cpp
+END
+SVGFEOffsetElement.idl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFEOffsetElement.idl
+END
+SVGPathSegListBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegListBuilder.h
+END
+SVGPolygonElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPolygonElement.h
+END
+SVGUseElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGUseElement.cpp
+END
+SVGFESpotLightElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFESpotLightElement.h
+END
+PatternAttributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/PatternAttributes.h
+END
+SVGPathParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathParser.cpp
+END
+SVGFEOffsetElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75377/trunk/Source/WebCore/svg/SVGFEOffsetElement.cpp
+END
+SVGFEImageElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75377/trunk/Source/WebCore/svg/SVGFEImageElement.h
+END
+SVGFontFaceFormatElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGFontFaceFormatElement.h
+END
+SVGPathSegListSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/svg/SVGPathSegListSource.h
+END

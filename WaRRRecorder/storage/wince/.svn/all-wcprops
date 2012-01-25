@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/storage/wince
+END
+DatabaseThreadWinCE.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/storage/wince/DatabaseThreadWinCE.cpp
+END
+LocalStorageThreadWinCE.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/storage/wince/LocalStorageThreadWinCE.h
+END
+DatabaseThreadWinCE.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/storage/wince/DatabaseThreadWinCE.h
+END
+LocalStorageThreadWinCE.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/storage/wince/LocalStorageThreadWinCE.cpp
+END

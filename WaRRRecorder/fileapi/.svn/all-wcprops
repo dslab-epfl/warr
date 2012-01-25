@@ -1,0 +1,665 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi
+END
+FileError.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileError.h
+END
+FileReaderLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileReaderLoader.h
+END
+FileWriterCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileWriterCallback.h
+END
+FileWriterSync.idl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileWriterSync.idl
+END
+FileEntry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileEntry.cpp
+END
+EntryBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/EntryBase.h
+END
+Entry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/Entry.cpp
+END
+FileReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileReader.cpp
+END
+Blob.idl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/Blob.idl
+END
+BlobURL.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/BlobURL.h
+END
+DOMFileSystemSync.idl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DOMFileSystemSync.idl
+END
+DirectoryEntrySync.idl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DirectoryEntrySync.idl
+END
+FileWriterSync.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileWriterSync.cpp
+END
+ErrorCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/ErrorCallback.h
+END
+FileWriterBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileWriterBase.h
+END
+Blob.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/Blob.cpp
+END
+AsyncFileWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/AsyncFileWriter.h
+END
+FileError.idl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileError.idl
+END
+FileWriterCallback.idl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileWriterCallback.idl
+END
+FileList.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileList.h
+END
+DOMFileSystemSync.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DOMFileSystemSync.cpp
+END
+DirectoryEntrySync.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DirectoryEntrySync.cpp
+END
+ThreadableBlobRegistry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/ThreadableBlobRegistry.cpp
+END
+DOMFileSystemBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DOMFileSystemBase.h
+END
+FileException.idl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileException.idl
+END
+FileSystemCallbacks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileSystemCallbacks.cpp
+END
+Metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/Metadata.h
+END
+EntryArray.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/EntryArray.idl
+END
+FileReaderLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileReaderLoader.cpp
+END
+FileWriterBaseCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileWriterBaseCallback.h
+END
+BlobBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/BlobBuilder.h
+END
+EntryArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/EntryArray.cpp
+END
+DOMFilePath.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DOMFilePath.h
+END
+BlobURL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/BlobURL.cpp
+END
+FileList.idl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileList.idl
+END
+Flags.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/Flags.h
+END
+MetadataCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/MetadataCallback.h
+END
+FileReaderSync.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileReaderSync.h
+END
+LocalFileSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/LocalFileSystem.h
+END
+FileReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileReader.h
+END
+FileWriterBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileWriterBase.cpp
+END
+DirectoryReaderSync.idl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DirectoryReaderSync.idl
+END
+BlobBuilder.idl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/BlobBuilder.idl
+END
+FileList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileList.cpp
+END
+EntriesCallback.idl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/EntriesCallback.idl
+END
+AsyncFileWriterClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/AsyncFileWriterClient.h
+END
+DOMFileSystemBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DOMFileSystemBase.cpp
+END
+FileCallback.idl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileCallback.idl
+END
+Blob.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/Blob.h
+END
+MetadataCallback.idl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/MetadataCallback.idl
+END
+FileEntrySync.idl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileEntrySync.idl
+END
+EntrySync.idl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/EntrySync.idl
+END
+DirectoryReaderSync.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DirectoryReaderSync.cpp
+END
+BlobBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/BlobBuilder.cpp
+END
+FileReaderSync.idl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileReaderSync.idl
+END
+FileSystemCallbacks.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileSystemCallbacks.h
+END
+FileEntrySync.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileEntrySync.cpp
+END
+EntrySync.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/EntrySync.cpp
+END
+FileReaderSync.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileReaderSync.cpp
+END
+FileThreadTask.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileThreadTask.h
+END
+LocalFileSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/LocalFileSystem.cpp
+END
+EntryArraySync.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/EntryArraySync.h
+END
+FileWriter.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileWriter.idl
+END
+FileException.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileException.h
+END
+EntryCallback.idl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/EntryCallback.idl
+END
+EntryArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/EntryArray.h
+END
+FileSystemCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileSystemCallback.h
+END
+DOMFileSystem.idl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DOMFileSystem.idl
+END
+DirectoryEntry.idl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DirectoryEntry.idl
+END
+FileThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileThread.h
+END
+FileWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileWriter.cpp
+END
+EntryArraySync.idl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/EntryArraySync.idl
+END
+File.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/File.h
+END
+DOMFileSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DOMFileSystem.cpp
+END
+DirectoryEntry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DirectoryEntry.cpp
+END
+FileSystemCallback.idl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileSystemCallback.idl
+END
+DirectoryReaderSync.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DirectoryReaderSync.h
+END
+EntriesCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/EntriesCallback.h
+END
+ErrorCallback.idl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/ErrorCallback.idl
+END
+DirectoryReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DirectoryReader.h
+END
+EntryArraySync.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/EntryArraySync.cpp
+END
+FileReaderLoaderClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileReaderLoaderClient.h
+END
+SyncCallbackHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/SyncCallbackHelper.h
+END
+FileCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileCallback.h
+END
+FileStreamProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileStreamProxy.h
+END
+FileEntrySync.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileEntrySync.h
+END
+EntrySync.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/EntrySync.h
+END
+File.idl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/File.idl
+END
+FileEntry.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileEntry.h
+END
+Entry.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/Entry.h
+END
+Metadata.idl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/Metadata.idl
+END
+FileThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileThread.cpp
+END
+DirectoryReader.idl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DirectoryReader.idl
+END
+FileWriterSync.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileWriterSync.h
+END
+File.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/File.cpp
+END
+FileWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileWriter.h
+END
+Flags.idl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/Flags.idl
+END
+EntryCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/EntryCallback.h
+END
+DOMFileSystemSync.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DOMFileSystemSync.h
+END
+FileEntry.idl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileEntry.idl
+END
+Entry.idl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/Entry.idl
+END
+DirectoryReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DirectoryReader.cpp
+END
+DirectoryReaderBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DirectoryReaderBase.h
+END
+DirectoryEntrySync.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DirectoryEntrySync.h
+END
+FileReader.idl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileReader.idl
+END
+ThreadableBlobRegistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/ThreadableBlobRegistry.h
+END
+DOMFileSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DOMFileSystem.h
+END
+DirectoryEntry.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DirectoryEntry.h
+END
+DOMFilePath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/DOMFilePath.cpp
+END
+FileStreamProxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/fileapi/FileStreamProxy.cpp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/NPN_Invoke
+END
+test.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/NPN_Invoke/test.html
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/NPN_Invoke/Info.plist
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/manual-tests/NPN_Invoke/main.c
+END

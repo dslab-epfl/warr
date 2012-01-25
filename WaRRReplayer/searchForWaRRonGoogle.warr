@@ -1,0 +1,26 @@
+open http://www.google.com
+type [w,119] //DIV/INPUT[@value="" and @title="Search" and @size="41" and @type="text" and @autocomplete="off" and @id="lst-ib" and @name="q" and @maxlength="2048" and @dir="ltr" and @spellcheck="false"] 0
+type [a,97] //DIV/INPUT[@value="" and @title="Search" and @size="41" and @type="text" and @autocomplete="off" and @id="lst-ib" and @name="q" and @maxlength="2048" and @dir="ltr" and @spellcheck="false"] 351
+type [r,114] //DIV/INPUT[@value="" and @title="Search" and @size="41" and @type="text" and @autocomplete="off" and @id="lst-ib" and @name="q" and @maxlength="2048" and @dir="ltr" and @spellcheck="false"] 383
+type [r,114] //DIV/INPUT[@value="" and @title="Search" and @size="41" and @type="text" and @autocomplete="off" and @id="lst-ib" and @name="q" and @maxlength="2048" and @dir="ltr" and @spellcheck="false"] 192
+type [ ,32] //DIV/INPUT[@value="" and @title="Search" and @size="41" and @type="text" and @autocomplete="off" and @id="lst-ib" and @name="q" and @maxlength="2048" and @dir="ltr" and @spellcheck="false"] 255
+type [r,114] //DIV/INPUT[@value="" and @title="Search" and @size="41" and @type="text" and @autocomplete="off" and @id="lst-ib" and @name="q" and @maxlength="2048" and @dir="ltr" and @spellcheck="false"] 208
+type [e,101] //DIV/INPUT[@value="" and @title="Search" and @size="41" and @type="text" and @autocomplete="off" and @id="lst-ib" and @name="q" and @maxlength="2048" and @dir="ltr" and @spellcheck="false"] 207
+type [c,99] //DIV/INPUT[@value="" and @title="Search" and @size="41" and @type="text" and @autocomplete="off" and @id="lst-ib" and @name="q" and @maxlength="2048" and @dir="ltr" and @spellcheck="false"] 317
+type [o,111] //DIV/INPUT[@value="" and @title="Search" and @size="41" and @type="text" and @autocomplete="off" and @id="lst-ib" and @name="q" and @maxlength="2048" and @dir="ltr" and @spellcheck="false"] 181
+type [r,114] //DIV/INPUT[@value="" and @title="Search" and @size="41" and @type="text" and @autocomplete="off" and @id="lst-ib" and @name="q" and @maxlength="2048" and @dir="ltr" and @spellcheck="false"] 171
+type [d,100] //DIV/INPUT[@value="" and @title="Search" and @size="41" and @type="text" and @autocomplete="off" and @id="lst-ib" and @name="q" and @maxlength="2048" and @dir="ltr" and @spellcheck="false"] 259
+type [ ,32] //DIV/INPUT[@value="" and @title="Search" and @size="41" and @type="text" and @autocomplete="off" and @id="lst-ib" and @name="q" and @maxlength="2048" and @dir="ltr" and @spellcheck="false"] 172
+type [a,97] //DIV/INPUT[@value="" and @title="Search" and @size="41" and @type="text" and @autocomplete="off" and @id="lst-ib" and @name="q" and @maxlength="2048" and @dir="ltr" and @spellcheck="false"] 271
+type [n,110] //DIV/INPUT[@value="" and @title="Search" and @size="41" and @type="text" and @autocomplete="off" and @id="lst-ib" and @name="q" and @maxlength="2048" and @dir="ltr" and @spellcheck="false"] 223
+type [d,100] //DIV/INPUT[@value="" and @title="Search" and @size="41" and @type="text" and @autocomplete="off" and @id="lst-ib" and @name="q" and @maxlength="2048" and @dir="ltr" and @spellcheck="false"] 319
+type [ ,32] //DIV/INPUT[@value="" and @title="Search" and @size="41" and @type="text" and @autocomplete="off" and @id="lst-ib" and @name="q" and @maxlength="2048" and @dir="ltr" and @spellcheck="false"] 191
+type [r,114] //DIV/INPUT[@value="" and @title="Search" and @size="41" and @type="text" and @autocomplete="off" and @id="lst-ib" and @name="q" and @maxlength="2048" and @dir="ltr" and @spellcheck="false"] 175
+type [e,101] //DIV/INPUT[@value="" and @title="Search" and @size="41" and @type="text" and @autocomplete="off" and @id="lst-ib" and @name="q" and @maxlength="2048" and @dir="ltr" and @spellcheck="false"] 223
+type [p,112] //DIV/INPUT[@value="" and @title="Search" and @size="41" and @type="text" and @autocomplete="off" and @id="lst-ib" and @name="q" and @maxlength="2048" and @dir="ltr" and @spellcheck="false"] 271
+type [l,108] //DIV/INPUT[@value="" and @title="Search" and @size="41" and @type="text" and @autocomplete="off" and @id="lst-ib" and @name="q" and @maxlength="2048" and @dir="ltr" and @spellcheck="false"] 1071
+type [a,97] //DIV/INPUT[@value="" and @title="Search" and @size="41" and @type="text" and @autocomplete="off" and @id="lst-ib" and @name="q" and @maxlength="2048" and @dir="ltr" and @spellcheck="false"] 813
+type [y,121] //DIV/INPUT[@value="" and @title="Search" and @size="41" and @type="text" and @autocomplete="off" and @id="lst-ib" and @name="q" and @maxlength="2048" and @dir="ltr" and @spellcheck="false"] 246
+click //BUTTON[@name="btnG"]/SPAN[1]  1760 756,67
+type [,0] //HTML/BODY[@id="gsr" and @bgcolor="#ffffff" and @text="#222222" and @link="#1122cc" and @vlink="#6611cc" and @alink="#d14836" and @onload="try{if(!google.j.b){document.f&&document.f.q.focus();document.gbqf&&document.gbqf.q.focus()}}catch(e){};if(document.images)new Image().src='/images/nav_logo101.png'"] 2985
+type [,0] //HTML/BODY[@id="gsr" and @bgcolor="#ffffff" and @text="#222222" and @link="#1122cc" and @vlink="#6611cc" and @alink="#d14836" and @onload="try{if(!google.j.b){document.f&&document.f.q.focus();document.gbqf&&document.gbqf.q.focus()}}catch(e){};if(document.images)new Image().src='/images/nav_logo101.png'"] 0

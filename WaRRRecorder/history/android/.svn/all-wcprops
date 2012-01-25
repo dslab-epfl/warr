@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/history/android
+END
+HistoryItemAndroid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/history/android/HistoryItemAndroid.cpp
+END
+AndroidWebHistoryBridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/history/android/AndroidWebHistoryBridge.h
+END

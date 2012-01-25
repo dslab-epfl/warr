@@ -1,0 +1,33 @@
+
+mozilla_extension(name = "chrome-driver",
+  srcs  = [ 
+    "*",
+    "icons/*",
+  ],
+  resources = [
+    { "//cpp:chrome_dll" : "npchromedriver.dll" },
+    { "**" : "./" }
+  ],
+  out = "chrome-extension.zip")
+
+# Used for http://src.chromium.org/svn/trunk/third_party/webdriver/atoms.h
+js_fragment_header(name = "atoms",
+  deps = [
+    "//javascript/webdriver-atoms:clear:chrome",
+    "//javascript/webdriver-atoms:execute_script:chrome",
+    "//javascript/webdriver-atoms:find_element:chrome",
+    "//javascript/webdriver-atoms:find_elements:chrome",
+    "//javascript/webdriver-atoms:get_attribute:chrome",
+    "//javascript/webdriver-atoms:get_effective_style:chrome",
+    "//javascript/webdriver-atoms:get_location:chrome",
+    "//javascript/webdriver-atoms:get_location_in_view:chrome",
+    "//javascript/webdriver-atoms:get_size:chrome",
+    "//javascript/webdriver-atoms:get_text:chrome",
+    "//javascript/webdriver-atoms:is_displayed:chrome",
+    "//javascript/webdriver-atoms:is_enabled:chrome",
+    "//javascript/webdriver-atoms:is_selected:chrome",
+    "//javascript/webdriver-atoms:set_selected:chrome",
+    "//javascript/webdriver-atoms:submit:chrome",
+    "//javascript/webdriver-atoms:toggle:chrome",
+  ],
+  utf8 = "true")

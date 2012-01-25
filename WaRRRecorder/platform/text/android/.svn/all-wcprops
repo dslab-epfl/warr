@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/text/android
+END
+TextBreakIteratorInternalICU.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/text/android/TextBreakIteratorInternalICU.cpp
+END
+HyphenationAndroid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/text/android/HyphenationAndroid.cpp
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/bridge/jni
+END
+JNIBridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/bridge/jni/JNIBridge.h
+END
+JNIUtility.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/bridge/jni/JNIUtility.cpp
+END
+jni_objc.mm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/bridge/jni/jni_objc.mm
+END
+jni_jsobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/bridge/jni/jni_jsobject.h
+END
+JNIUtility.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/bridge/jni/JNIUtility.h
+END
+jni_jsobject.mm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/bridge/jni/jni_jsobject.mm
+END
+JNIBridge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/bridge/jni/JNIBridge.cpp
+END

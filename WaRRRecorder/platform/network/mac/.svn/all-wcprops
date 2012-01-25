@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/mac
+END
+ResourceResponseMac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/mac/ResourceResponseMac.mm
+END
+FormDataStreamMac.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/mac/FormDataStreamMac.h
+END
+WebCoreURLResponse.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/mac/WebCoreURLResponse.mm
+END
+FormDataStreamMac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/mac/FormDataStreamMac.mm
+END
+AuthenticationMac.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/mac/AuthenticationMac.h
+END
+CookieStorageMac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/mac/CookieStorageMac.mm
+END
+AuthenticationMac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/mac/AuthenticationMac.mm
+END
+CredentialStorageMac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/mac/CredentialStorageMac.mm
+END
+ResourceRequestMac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/mac/ResourceRequestMac.mm
+END
+ResourceErrorMac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/mac/ResourceErrorMac.mm
+END
+NetworkStateNotifierMac.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/mac/NetworkStateNotifierMac.cpp
+END
+ResourceHandleMac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/mac/ResourceHandleMac.mm
+END
+WebCoreURLResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/network/mac/WebCoreURLResponse.h
+END

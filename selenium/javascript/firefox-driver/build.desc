@@ -1,0 +1,60 @@
+mozilla_xpt(name = "command_processor_xpt",
+  srcs = [ "extension/idl/nsICommandProcessor.idl" ])
+
+mozilla_xpt(name = "response_handler_xpt",
+  srcs = [ "extension/idl/nsIResponseHandler.idl" ])
+
+mozilla_xpt(name = "httpd_xpt",
+  srcs = [ "extension/idl/nsIHttpServer.idl" ])
+
+mozilla_extension(name = "webdriver",
+  content = [
+    "extension/content/**/*.js",
+    "extension/content/fxdriver.xul",
+    "//javascript/shared-extension",
+  ],
+  components = [
+    "extension/components/*.js",
+    ":command_processor_xpt",
+    ":httpd_xpt",
+    "//cpp:native_events_xpt",
+    ":response_handler_xpt"
+  ],
+  resources = [
+    { "//cpp:firefox_dll" : "platform/WINNT_x86-msvc/components/webdriver-firefox.dll" },
+    { "//cpp:imehandler_dll" : "platform/WINNT_x86-msvc/components/imehandler.dll" },
+    { "//cpp:libwebdriver_firefox_so" : "platform/Linux_x86-gcc3/components/libwebdriver-firefox.so" },
+    { "//cpp:libwebdriver_firefox_so64" : "platform/Linux_x86_64-gcc3/components/libwebdriver-firefox.so" },
+    { ":atoms" : "resource/modules/atoms.js" },
+    { ":utils" : "resource/modules/utils.js" },
+    { "js/timer.js" : "resource/modules/timer.js" },
+    { "js/evaluate.js" : "resource/evaluate.js" },
+    { "//third_party/js/sizzle" : "resource/sizzle.js" }
+  ],
+  chrome = "extension/chrome.manifest",
+  install = "extension/install.rdf")
+
+# Needed because the closure library doesn't have the EXPORTED_SYMBOLS variable
+# required by the loader in firefox
+js_binary(name = "atoms",
+  srcs = [
+    "js/firefox-utils.js",
+    "js/preconditions.js",
+    "js/exported_symbols.js"
+  ],
+  deps = [ "//javascript/webdriver-atoms:deps" ])
+
+js_binary(name = "utils",
+  srcs = [
+    "js/errorcode.js",
+    "js/firefox-utils.js",
+    "js/logging.js",
+    "js/modals.js",
+    "js/timer.js",
+    "js/utils.js",
+    "js/utils_exports.js"
+  ],
+  deps = [
+    "//javascript/webdriver-atoms:deps"
+  ])
+

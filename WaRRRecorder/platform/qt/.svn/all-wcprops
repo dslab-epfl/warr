@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/webkit/!svn/ver/75632/trunk/Source/WebCore/platform/qt
+END
+QWebPageClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/QWebPageClient.h
+END
+QtMobileWebStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/QtMobileWebStyle.h
+END
+ClipboardQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/ClipboardQt.cpp
+END
+SharedBufferQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/SharedBufferQt.cpp
+END
+PlatformTouchPointQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/PlatformTouchPointQt.cpp
+END
+PlatformBridgeQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/PlatformBridgeQt.cpp
+END
+PlatformBridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/PlatformBridge.h
+END
+CookieJarQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75411/trunk/Source/WebCore/platform/qt/CookieJarQt.cpp
+END
+WheelEventQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75467/trunk/Source/WebCore/platform/qt/WheelEventQt.cpp
+END
+RenderThemeQt.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75632/trunk/Source/WebCore/platform/qt/RenderThemeQt.h
+END
+PlatformKeyboardEventQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/PlatformKeyboardEventQt.cpp
+END
+ContextMenuQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/ContextMenuQt.cpp
+END
+EventLoopQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/EventLoopQt.cpp
+END
+ScrollbarThemeQt.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/ScrollbarThemeQt.h
+END
+CursorQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/CursorQt.cpp
+END
+DragImageQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/DragImageQt.cpp
+END
+ScrollbarQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/ScrollbarQt.cpp
+END
+PlatformScreenQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/PlatformScreenQt.cpp
+END
+QtStyleOptionWebComboBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/QtStyleOptionWebComboBox.h
+END
+QtMobileWebStyle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/QtMobileWebStyle.cpp
+END
+LoggingQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/LoggingQt.cpp
+END
+ContextMenuItemQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/ContextMenuItemQt.cpp
+END
+PlatformTouchEventQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/PlatformTouchEventQt.cpp
+END
+GeolocationServiceQt.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/GeolocationServiceQt.h
+END
+ScrollViewQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/ScrollViewQt.cpp
+END
+PlatformMouseEventQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/PlatformMouseEventQt.cpp
+END
+RenderThemeQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75632/trunk/Source/WebCore/platform/qt/RenderThemeQt.cpp
+END
+FileChooserQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/FileChooserQt.cpp
+END
+ClipboardQt.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/ClipboardQt.h
+END
+ScrollbarThemeQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/ScrollbarThemeQt.cpp
+END
+DragDataQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75523/trunk/Source/WebCore/platform/qt/DragDataQt.cpp
+END
+SharedTimerQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/SharedTimerQt.cpp
+END
+KURLQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/KURLQt.cpp
+END
+ScreenQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/ScreenQt.cpp
+END
+TemporaryLinkStubsQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/TemporaryLinkStubsQt.cpp
+END
+MIMETypeRegistryQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/MIMETypeRegistryQt.cpp
+END
+LanguageQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/LanguageQt.cpp
+END
+WidgetQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/WidgetQt.cpp
+END
+PasteboardQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75339/trunk/Source/WebCore/platform/qt/PasteboardQt.cpp
+END
+FileSystemQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/FileSystemQt.cpp
+END
+GeolocationServiceQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/GeolocationServiceQt.cpp
+END
+SoundQt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/webkit/!svn/ver/75314/trunk/Source/WebCore/platform/qt/SoundQt.cpp
+END
