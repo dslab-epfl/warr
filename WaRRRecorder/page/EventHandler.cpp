@@ -1778,7 +1778,6 @@ void EventHandler::invalidateClick()
 
 bool EventHandler::handleMouseReleaseEvent(const PlatformMouseEvent& mouseEvent)
 {
-    std::cout<<"Release\n";
     struct timeval startEventTime;
     gettimeofday(&startEventTime, 0);
     RefPtr<FrameView> protector(m_frame->view());
