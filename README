@@ -1,1 +1,26 @@
-NOT READY YET
+WaRR has 2 components:
+1) WaRRRecorder, a Chromium-based browser that logs users' clicks and keystrokes
+2) WaRRReplayer, a Selenium-based replay tool
+
+Using WaRR
+
+1) Get Chromium source code and replace parts of it with the WaRRRecorder
+	1.1) run setUpWaRRRecorder.sh (first time only)
+	1.2) run src/build/install-build-deps.sh (first time only)
+	1.3) run depot_tools/gclient runhooks --force
+
+2) Build WaRR
+	2.1) run buildWaRR.sh
+
+3) Record user actions (run the WaRRRecorder)
+	3.1) run src/out/Release/chrome
+	3.2) a user's clicks and keystrokes are saved in /home/<username>/WaRRRecordedCommands.warr
+
+4) Replay user actions (run the WaRRReplayer)
+	4.1) cd WaRRReplayer
+	4.2) ant WaRRReplayer -Dchrome=<path to WaRRRecorder> -Dwarr_file=<path to a warr file containing WaRR actions>
+	4.3) Example 
+		4.3.1) ant WaRRReplayer -Dchrome=../src/out/Release/chrome -Dwarr_file=searchForWaRRonGoogle.warr
+		4.3.2) ant WaRRReplayer -Dchrome=../src/out/Release/chrome -Dwarr_file=sendEmail.warr
+		4.3.1) ant WaRRReplayer -Dchrome=../src/out/Release/chrome -Dwarr_file=dragAndDrop.warr
+		
