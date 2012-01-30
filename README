@@ -24,4 +24,6 @@ Using WaRR
 		4.3.1) ant WaRRReplayer -Dchrome=../src/out/Release/chrome -Dwarr_file=dragAndDrop.warr (need to open dragAndDrop.warr and change the URL)
 
 5) Notes
+	Tested on Linux 11.10 64 bits
+	Built on Linux 11.04 64 bits
 		
