@@ -29,7 +29,6 @@ type [u,117] //TD/TEXTAREA[@name="to" and @id=":mz" and @spellcheck="false" and 
 type [s,115] //TD/TEXTAREA[@name="to" and @id=":mz" and @spellcheck="false" and @tabindex="1" and @dir="ltr" and @aria-haspopup="true" and @aria-activedescendant=""] 207
 type [e,101] //TD/TEXTAREA[@name="to" and @id=":mz" and @spellcheck="false" and @tabindex="1" and @dir="ltr" and @aria-haspopup="true" and @aria-activedescendant=""] 223
 type [r,114] //TD/TEXTAREA[@name="to" and @id=":mz" and @spellcheck="false" and @tabindex="1" and @dir="ltr" and @aria-haspopup="true" and @aria-activedescendant=""] 223
-type [,0] //TD/TEXTAREA[@name="to" and @id=":mz" and @spellcheck="false" and @tabindex="1" and @dir="ltr" and @aria-haspopup="true" and @aria-activedescendant=""] 448
 type [@,64] //TD/TEXTAREA[@name="to" and @id=":mz" and @spellcheck="false" and @tabindex="1" and @dir="ltr" and @aria-haspopup="true" and @aria-activedescendant=""] 399
 type [g,103] //TD/TEXTAREA[@name="to" and @id=":mz" and @spellcheck="false" and @tabindex="1" and @dir="ltr" and @aria-haspopup="true" and @aria-activedescendant=""] 495
 type [m,109] //TD/TEXTAREA[@name="to" and @id=":mz" and @spellcheck="false" and @tabindex="1" and @dir="ltr" and @aria-haspopup="true" and @aria-activedescendant=""] 367
