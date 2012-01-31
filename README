@@ -21,7 +21,7 @@ Using WaRR
 	4.3) Examples 
 		4.3.1) ant WaRRReplayer -Dchrome=../src/out/Release/chrome -Dwarr_file=searchForWaRRonGoogle.warr
 		4.3.2) ant WaRRReplayer -Dchrome=../src/out/Release/chrome -Dwarr_file=sendEmail.warr
-		4.3.1) ant WaRRReplayer -Dchrome=../src/out/Release/chrome -Dwarr_file=dragAndDrop.warr (need to open dragAndDrop.warr and change the URL)
+		4.3.3) ant WaRRReplayer -Dchrome=../src/out/Release/chrome -Dwarr_file=dragAndDrop.warr (need to open dragAndDrop.warr and change the URL)
 
 5) Notes
 	Tested on Linux 11.10 64 bits
